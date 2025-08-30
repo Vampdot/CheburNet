@@ -1,0 +1,2 @@
+C:\Users\vampi\Desktop\CheburNet V5\CheburNet\bin\Release\net6.0-windows\CheburNet.pdb
+C:\Users\vampi\Desktop\CheburNet V5\CheburNet\bin\Release\net6.0-windows\CheburNet.exe

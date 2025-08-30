@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PdXsUlMybr4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vampi\\Desktop\\CheburNet V5\\CheburNet\\CheburNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vampi\\.nuget\\packages\\microsoft.web.webview2\\1.0.1587.40\\microsoft.web.webview2.1.0.1587.40.nupkg.sha512"
+  ],
+  "logs": []
+}

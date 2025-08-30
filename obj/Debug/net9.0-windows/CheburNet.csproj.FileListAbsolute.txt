@@ -1,0 +1,5 @@
+C:\Users\vampi\Desktop\CheburNet\CheburNet\obj\Debug\net9.0-windows\CheburNet.csproj.AssemblyReference.cache
+C:\Users\vampi\Desktop\CheburNet\CheburNet\obj\Debug\net9.0-windows\CheburNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vampi\Desktop\CheburNet\CheburNet\obj\Debug\net9.0-windows\CheburNet.AssemblyInfoInputs.cache
+C:\Users\vampi\Desktop\CheburNet\CheburNet\obj\Debug\net9.0-windows\CheburNet.AssemblyInfo.cs
+C:\Users\vampi\Desktop\CheburNet\CheburNet\obj\Debug\net9.0-windows\CheburNet.csproj.CoreCompileInputs.cache
